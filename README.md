@@ -90,6 +90,3 @@ random calling.
 | **Evaluation** | Accuracy, precision, recall, F1, ROC-AUC on the held-out test set. ROC-curve overlay. Logistic Regression coefficients interpreted with a plot + prose. |
 | **Deployment / Next Steps** | Concrete business recommendations plus refit cadence and A/B-test plan. |
 
----
-
-*Author: Tiana — Berkeley / Emeritus ML-AI Professional Certificate, Module 17 Practical Application III.*
